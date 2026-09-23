@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b1015"/>
+  <circle cx="1080" cy="280" r="240" fill="none" stroke="#263c43"/>
+  <circle cx="1080" cy="280" r="170" fill="none" stroke="#263c43"/>
+  <path d="M950 250h90v90h90M950 310h40v90h120" fill="none" stroke="#73e1df" stroke-width="2"/>
+  <circle cx="950" cy="250" r="5" fill="#73e1df"/><circle cx="1130" cy="340" r="5" fill="#73e1df"/>
+  <text x="75" y="98" fill="#73e1df" font-family="Segoe UI, sans-serif" font-weight="700" font-size="38">CF.</text>
+  <text x="75" y="210" fill="#a9bbc6" font-family="Segoe UI, sans-serif" font-size="18" letter-spacing="3">ESTUDIANTE DE INGENIERÍA DE SOFTWARE</text>
+  <text x="70" y="315" fill="#e9edef" font-family="Segoe UI, sans-serif" font-weight="700" font-size="80">Cristian Alexis</text>
+  <text x="70" y="410" fill="#9aabb7" font-family="Segoe UI, sans-serif" font-weight="700" font-size="80">Figueroa Vega<tspan fill="#73e1df">.</tspan></text>
+  <path d="M75 483h1050" stroke="#2a3b44"/>
+  <text x="75" y="541" fill="#c4d6df" font-family="Segoe UI, sans-serif" font-size="23">Backend · Python · Bases de datos</text>
+  <text x="1125" y="541" text-anchor="end" fill="#73e1df" font-family="Segoe UI, sans-serif" font-size="20">github.com/Crisuxz</text>
+</svg>
