@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /MyPortfolio-CAFV/
+
+Sitemap: https://crisuxz.github.io/MyPortfolio-CAFV/sitemap.xml
