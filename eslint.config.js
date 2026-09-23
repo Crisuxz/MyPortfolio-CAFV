@@ -18,4 +18,5 @@ export default tseslint.config(
     },
   },
   { files: ['**/*.js', '**/*.mjs'], languageOptions: { globals: globals.node } },
+  { files: ['scripts/capture-preview.mjs'], languageOptions: { globals: globals.browser } },
 )
